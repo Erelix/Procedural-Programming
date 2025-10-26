@@ -20,3 +20,6 @@ Reads text from an input file,  remove hyphens between letters, and writes the m
 ## *4_uzd* - Dynamic two-way stack
 
 Implemented dynamic two-way stack data structure. Program is an interactive menu  for pushing elements from left or right, reading/writing stack data to files, and managing memory with proper allocation and cleanup.
+
+## *learning_exercises*
+These tasks were done for extra credits and  learning purposes.
