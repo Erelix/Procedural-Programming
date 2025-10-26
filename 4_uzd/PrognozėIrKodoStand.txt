@@ -1,0 +1,89 @@
+Adrian Klimaševski - 5 grupė - 1 pogrupis
+12. Sudaryti dvipusį sutvarkytą sąrašą (elementai eina didėjimo tvarka). Parašyti
+procedūrą, kuri įterpia į sąrašą naują elementą. 
+
+
+Prognozė:
+
+0.75h	Funkcijos: Tuščio sąrašo sukūrimas, sąrašo ištrynimas, sąrašo spausdinimas(į ekraną).
+1.0h	Duomenų nuskaitymas iš failo (ir jų įdėjimas į sąrašą), sąrašo spausdinimas į failą. 
+1.0h	Funkcijos įtrepiančios elementą iš "kairės"(Atsižvelgiant į elementų perkelinėjimą).
+0.15h	Funkcija įterpianti elemtą iš "dešinės".
+1.5h	Funkcija sutvrakanti elementus didėjimo tvarka.
+1.0h	Gražios vartotojo sąsajos darymas, ekstra perspėjimai.
+0.5h	Programos išdalinimas į 3 filus, makefile filo sukūrimas.
+1.0h	Vienetų testų failo sukūrimas / testavimas.
+2.5h	Ataskaitos/prezentacijos darymas.
+
+9.4h	Viso
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+Kodo standartai:
+
+Kintamųjų pavadimai - angliški, logiški, trumpiniai gali būti naudojami tik funkcijose - main file pilni pavadinimai. Sudurtiniai žodžiai skiriami "_" (pvz., first_number).
+
+Procedūrų pavadinimai - angliški, logiški, prasideda "my", sudurtiniai žodžiai neskiriami, tik jų pradžia rašoma iš didžiosios (pvz., myFillArray).
+
+Pointerių pavadinimai - gale "_ptr" (pvz., result_file_ptr).
+
+
+
+Iš https://github.com/MaJerle/c-code-style pasirinkti bei savo pridėti kodo rašymo standartai:
+
+1. Tarpai po struktūrų pavadinimų
+if (condition)
+while (condition)
+for (init; condition; step)
+do {} while (condition)
+
+2. Tarpai tarp elementų
+a = 3 + 4;
+for (a = 0; a < 5; ++a) 
+
+3. Nėra tarpo tarp funkcijos pavadimio ir skliaustų ().
+int32_t a = sum(4, 3);  
+
+4. Defininimas to pačio kintamųjų tipo vieonoje eilutėje
+char a, b; 
+
+6. Pointerių inicializavimas į NULL.
+char *string = NULL;
+
+7. Po kiekvieno atminties išskyrimo tikrinimas ar ji buvo išskirta 
+arr = ..malloc..
+if (аrr != NULL)
+	;
+
+10. Laužtiniai skliaustai ir tarpai
+if (condition) {
+	;
+}
+
+11. Jei nebūtini laužtiniai skliaustai, jų nenaudoti. 
+if (condition)
+	;
+else (condition)
+	;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

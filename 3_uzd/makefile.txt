@@ -1,0 +1,2 @@
+programa:
+	gcc main.c functions.c -o programa

@@ -1,0 +1,7 @@
+1.5h	Išmokti ir įgyvendinti nuskaitymą iš failo
+1.5h	Išmokti ir įgyvendinti įrašymą į failą
+1.0h	Parašyti funkciją, kuri atlieka žodžių sujungimą
+1.0h	Ištestuoti ir pataisyti klaidas
+1.5h	Padaryti ataskaitą / pasiruošti pristatyti	
+
+6.5h	:Viso

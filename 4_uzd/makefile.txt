@@ -1,0 +1,10 @@
+all: programa test
+
+programa: main2.c functions.c
+	gcc main2.c functions.c -o programa
+
+test: asserts.c functions.c
+	gcc asserts.c functions.c -o test
+
+clean:
+	cmd /c del programa.exe test.exe
