@@ -5,18 +5,18 @@ Course Coordinators:
 - Irmantas Radavičius, Lect.
 - Jonas Ragaišis, Lect.
 
-## 1_uzd Collatz-like Sequence Calculator
+## *1_uzd* - Collatz-like Sequence Calculator
 
 Generates a mathematical sequence from user input, where each term is modified by either halving even numbers or applying 3n+1 to odd numbers, but stops immediately if any number contains the digit '1' in its decimal representation.
 
-## 2_uzd Spiral Matrix Generator
+## *2_uzd* - Spiral Matrix Generator
 
 Creates an N×N matrix filled with numbers. Takes a user-input integer, generates a square matrix of that size.
 
-## 3_uzd Hyphen Remover
+## *3_uzd* - Hyphen Remover
 
 Reads text from an input file,  remove hyphens between letters, and writes the modified text to an output file.
 
-## 4_uzd Dynamic two-way stack
+## *4_uzd* - Dynamic two-way stack
 
 Implemented dynamic two-way stack data structure. Program is an interactive menu  for pushing elements from left or right, reading/writing stack data to files, and managing memory with proper allocation and cleanup.
