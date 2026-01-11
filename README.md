@@ -1,7 +1,7 @@
 # Procedural Programming
-2023/2024 Autumn
+**2024 Autumn Semester**
 
-Course Coordinators:
+**Course Coordinators:**
 - Irmantas Radavičius, Lect.
 - Jonas Ragaišis, Lect.
 
